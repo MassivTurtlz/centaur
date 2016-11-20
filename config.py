@@ -1,4 +1,4 @@
-#This lists all the common variables
+#This lists all the project constants
 
 SAVE_FILE = 'save/save.json'
 TEST_SAVE_FILE = '../tests/tests.json'
