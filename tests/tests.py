@@ -1,8 +1,8 @@
-from readWrite import get_json
-from config import TEST_SAVE_FILE
-from config import TEST_JSON
 from config import JSON_TEST_NAME
-from readWrite import update_json
+from config import TEST_JSON
+from config import TEST_SAVE_FILE
+from controller.readWrite import get_json
+from controller.readWrite import update_json
 
 
 # This tests the get_json() function, and the update_json() function.
